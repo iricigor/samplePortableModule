@@ -12,3 +12,5 @@ Import-Module .\myModule.dll
 gcm -Module myModule
 Test-SampleCmdlet
 ```
+
+It works in PowerShell core, but not in Windows PowerShell.
