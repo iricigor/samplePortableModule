@@ -1,4 +1,4 @@
-# samplePortableModule
+# Sample Portable Module
 
 Based on https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/writing-portable-modules?view=powershell-7
 
